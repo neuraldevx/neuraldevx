@@ -1,7 +1,7 @@
 # Hi, I'm Jake 👋
 
 ## 🚀 About Me
-I'm a Data Engineer and Software Developer passionate about AI and Machine Learning.
+Data Engineer and Software Developer passionate about AI and Machine Learning.
 
 ## 🔧 Skills
 - **Languages:** Python, Java, JavaScript, SQL, C, TypeScript
@@ -19,6 +19,3 @@ I'm a Data Engineer and Software Developer passionate about AI and Machine Learn
 
 ## 💬 Let's Connect
 Feel free to reach out if you have any questions or want to collaborate!
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuraldevx)](https://github.com/anuraghazra/github-readme-stats)
