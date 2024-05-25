@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Christensen 👋
+# Hi, I'm Jake 👋
 
 ## 🚀 About Me
 I'm a Software Developer and Data Scientist passionate about AI and Machine Learning.
