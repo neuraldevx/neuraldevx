@@ -13,9 +13,9 @@ I'm a Software Developer and Data Scientist passionate about AI and Machine Lear
 - **[Deep Learning Neural Network on FashionMNIST](https://github.com/neuraldevx/Deep-Learning-FashionMNIST):** Classifying fashion items using neural networks.
 
 ## 🌐 Links
-- **[Portfolio](https://neuraldevx.vercel.app)**
+- **[Portfolio](https://christensenjacob.me)**
 - **[LinkedIn](https://www.linkedin.com/in/jacobrchristensen/)**
-- **[Twitter](https://twitter.com/neuraldevx)**
+- **[Twitter](https://x.com/realjakechris)**
 
 ## 💬 Let's Connect
 Feel free to reach out if you have any questions or want to collaborate!
