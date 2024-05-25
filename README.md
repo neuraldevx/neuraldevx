@@ -1,21 +1,21 @@
-# Hi, I'm Jake 👋
+# Hi, I'm Jake 
 
-## 🚀 About Me
+## About Me
 Data Engineer and Software Developer passionate about AI and Machine Learning.
 
-## 🔧 Skills
+## Skills
 - **Languages:** Python, Java, JavaScript, SQL, C, TypeScript
 - **Frameworks:** React, Node.js, TensorFlow, Keras
 - **Tools:** Docker, Git, Jupyter, Apache Kafka
 
-## 📈 Projects
+## Projects
 - **[SentimentTrader](https://github.com/neuraldevx/SentimentTrader):** A sentiment analysis trading bot using Alpaca API.
 - **[Deep Learning Neural Network on FashionMNIST](https://github.com/neuraldevx/Deep-Learning-FashionMNIST):** Classifying fashion items using neural networks.
 
-## 🌐 Links
+##  Links
 - **[Portfolio](https://www.christensenjacob.me/)**
 - **[LinkedIn](https://www.linkedin.com/in/jacobrchristensen/)**
 - **[Twitter](https://x.com/realjakechris)**
 
-## 💬 Let's Connect
+##  Let's Connect
 Feel free to reach out if you have any questions or want to collaborate!
