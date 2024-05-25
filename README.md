@@ -1,7 +1,7 @@
 # Hi, I'm Jake 👋
 
 ## 🚀 About Me
-I'm a Software Developer and Data Scientist passionate about AI and Machine Learning.
+I'm a Data Engineer and Software Developer passionate about AI and Machine Learning.
 
 ## 🔧 Skills
 - **Languages:** Python, Java, JavaScript, SQL, C, TypeScript
