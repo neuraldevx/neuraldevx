@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jacob Christensen 👋
 
-<!--
-**neuraldevx/neuraldevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Software Developer and Data Scientist passionate about AI and Machine Learning.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages:** Python, Java, JavaScript, SQL, C, TypeScript
+- **Frameworks:** React, Node.js, TensorFlow, Keras
+- **Tools:** Docker, Git, Jupyter, Apache Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+- **[SentimentTrader](https://github.com/neuraldevx/SentimentTrader):** A sentiment analysis trading bot using Alpaca API.
+- **[Deep Learning Neural Network on FashionMNIST](https://github.com/neuraldevx/Deep-Learning-FashionMNIST):** Classifying fashion items using neural networks.
+
+## 🌐 Links
+- **[Portfolio](https://neuraldevx.vercel.app)**
+- **[LinkedIn](https://www.linkedin.com/in/jacobrchristensen/)**
+- **[Twitter](https://twitter.com/neuraldevx)**
+
+## 💬 Let's Connect
+Feel free to reach out if you have any questions or want to collaborate!
