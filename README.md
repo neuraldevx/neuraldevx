@@ -9,7 +9,7 @@ Data Engineer and Software Developer passionate about AI and Machine Learning.
 - **Tools:** Docker, Git, Jupyter
 
 ## Projects
-- **[SentimentTrader](https://github.com/neuraldevx/SentimentTrader):** A sentiment analysis trading bot using Alpaca API.
+- **[PersonalPortfolio](https://github.com/neuraldevx/Jake-Christensen-Portfolio):** My personal portfolio.
 - **[Deep Learning Neural Network on FashionMNIST](https://github.com/neuraldevx/Deep-Learning-FashionMNIST):** Classifying fashion items using neural networks.
 
 ##  Links
