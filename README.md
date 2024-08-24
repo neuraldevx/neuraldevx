@@ -4,9 +4,9 @@
 Data Engineer and Software Developer passionate about AI and Machine Learning.
 
 ## Skills
-- **Languages:** Python, Java, JavaScript, SQL, C, TypeScript
-- **Frameworks:** React, Node.js, TensorFlow, Keras
-- **Tools:** Docker, Git, Jupyter, Apache Kafka
+- **Languages:** Python, JavaScript, SQL, C, TypeScript
+- **Frameworks:** React, Node.js, TensorFlow
+- **Tools:** Docker, Git, Jupyter
 
 ## Projects
 - **[SentimentTrader](https://github.com/neuraldevx/SentimentTrader):** A sentiment analysis trading bot using Alpaca API.
