@@ -46,7 +46,7 @@ Data Engineer and Software Developer passionate about AI and Machine Learning.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="./github-user-contribution.svg" alt="Snake animation" />
 
 ---
 
