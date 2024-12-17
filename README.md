@@ -46,7 +46,11 @@ Data Engineer and Software Developer passionate about AI and Machine Learning.
 
 <br clear="both">
 
-<img src="./github-user-contribution.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neuraldevx/neuraldevx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neuraldevx/neuraldevx/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/neuraldevx/neuraldevx/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
