@@ -8,6 +8,12 @@
 
 ###
 
+## 🚀 About Me  
+Data Engineer and Software Developer passionate about AI and Machine Learning.
+
+---
+
+## 💻 Skills  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -50,10 +56,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo" />
 </div>
 
-###
+---
 
+## 🌐 Personal Portfolio  
+Check out my personal portfolio to learn more about me and explore my work:  
+- **GitHub Repository:** [PersonalPortfolio](https://github.com/neuraldevx/personalportfolio)  
+- **Live Website:** [jakechristensen.tech](https://jakechristensen.tech)
+
+---
+
+## 📂 Projects  
+Here are some of the projects I've been working on:  
+- **[Deep Learning Neural Network on FashionMNIST](https://github.com/neuraldevx/Deep-Learning-FashionMNIST):** Classifying fashion items using neural networks.  
+- **[Daily Debates](https://github.com/neuraldevx/dailydebates):** A platform for trending topic debates and community engagement.  
+- **[InstaWit](https://github.com/neuraldevx/instawit):** AI-powered Instagram caption generator with a sleek UI.  
+
+---
+
+## 🔧 What I’m Currently Working On  
+- Enhancing my personal portfolio ([jakechristensen.tech](https://jakechristensen.tech)) to showcase recent projects.  
+- Building a **Sentiment Analysis Dashboard** using the xAI API to analyze trending topics.  
+- Exploring new SaaS ideas for **client feedback tools**.  
+
+---
+
+## 🤝 Let's Connect  
 <div align="left">
-  <a href="Jrchris511@gmail.com" target="_blank">
+  <a href="mailto:Jrchris511@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/jacobrchristensen/" target="_blank">
@@ -64,8 +93,9 @@
   </a>
 </div>
 
-###
+---
 
+## 🐍 GitHub Contribution Snake  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neuraldevx/neuraldevx/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neuraldevx/neuraldevx/output/github-contribution-grid-snake.svg" />
