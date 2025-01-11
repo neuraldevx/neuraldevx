@@ -59,8 +59,7 @@ Data Engineer and Software Developer passionate about AI and Machine Learning.
 ---
 
 ## 🌐 Personal Portfolio  
-Check out my personal portfolio to learn more about me and explore my work:  
-- **GitHub Repository:** [PersonalPortfolio](https://github.com/neuraldevx/personalportfolio)  
+Check out my personal portfolio to learn more about me and explore my work:    
 - **Live Website:** [jakechristensen.tech](https://jakechristensen.tech)
 
 ---
@@ -76,7 +75,6 @@ Here are some of the projects I've been working on:
 ## 🔧 What I’m Currently Working On  
 - Enhancing my personal portfolio ([jakechristensen.tech](https://jakechristensen.tech)) to showcase recent projects.  
 - Building a **Sentiment Analysis Dashboard** using the xAI API to analyze trending topics.  
-- Exploring new SaaS ideas for **client feedback tools**.  
 
 ---
 
