@@ -66,7 +66,7 @@ check out my site to see what i’ve been up to:
 
 ## what i’m building now  
 - polishing my portfolio and adding fresh projects  
-- working on tildra, a browser extension that uses ai to summarize long form articles and more...
+- working on **tildra**, a browser extension that uses ai to summarize long form articles and more...
 
 ---
 
