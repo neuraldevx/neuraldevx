@@ -64,17 +64,9 @@ check out my site to see what i’ve been up to:
 
 ---
 
-## some projects  
-a few things i’ve worked on lately:  
-- [deep learning on fashionmnist](https://github.com/neuraldevx/Deep-Learning-FashionMNIST) — neural net that classifies fashion stuff  
-- [daily debates](https://github.com/neuraldevx/dailydebates) — a space for people to weigh in on trending topics  
-- [instawit](https://github.com/neuraldevx/instawit) — ai-powered caption generator for instagram posts  
-
----
-
 ## what i’m building now  
 - polishing my portfolio and adding fresh projects  
-- working on a sentiment analysis dashboard using the xai api to track trending opinions  
+- working on tildra, a browser extension that uses ai to summarize long form articles and more...
 
 ---
 
